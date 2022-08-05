@@ -1,0 +1,2 @@
+Ejecute el instalador primero, esto le instalará Python
+Ya está listo!!!
